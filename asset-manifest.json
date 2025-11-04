@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CVIP2026v4/static/css/main.15bcba52.css",
+    "main.js": "/CVIP2026v4/static/js/main.1ea6ae2c.js",
+    "static/js/453.dc566ecd.chunk.js": "/CVIP2026v4/static/js/453.dc566ecd.chunk.js",
+    "index.html": "/CVIP2026v4/index.html",
+    "main.15bcba52.css.map": "/CVIP2026v4/static/css/main.15bcba52.css.map",
+    "main.1ea6ae2c.js.map": "/CVIP2026v4/static/js/main.1ea6ae2c.js.map",
+    "453.dc566ecd.chunk.js.map": "/CVIP2026v4/static/js/453.dc566ecd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15bcba52.css",
+    "static/js/main.1ea6ae2c.js"
+  ]
+}
